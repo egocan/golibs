@@ -1,0 +1,2 @@
+# golibs
+golang prvate library
